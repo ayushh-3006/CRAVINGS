@@ -299,6 +299,10 @@
 
 }
 
+#q1,#q2,#q3,#q4{
+  color: var(--color-neutral-content);
+}
+
 .overlay {
   position: absolute;
   top: 20%;
